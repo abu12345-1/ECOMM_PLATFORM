@@ -1,0 +1,11 @@
+.env
+target/
+node_modules/
+dist/
+.idea/
+.vscode/
+*.log
+*.exe
+*.zip
+*.msi
+.DS_Store
